@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(221, 221, 221);
+}
+h1{
+    text-align: center;
+    color: gold;
+    background-color: black;
+    font-size: 30px;
+    width: 270px;
+    margin: 0 auto;
+    border-radius:6px;
+    box-shadow: 10px 6px 50px rgb(221, 209, 140);
+}
+h1:hover{
+    color:white;
+    background-color:teal;
+    font-size: 35px;
+    width: 320px;
+    font-weight: inherit;
+    border: 1px solid teal;
+    border-radius: 0px;
+    box-shadow: 2px 3px 60px rgb(156, 201, 201);
+
+}
+h1:hover{
+    cursor:default;
+}
+img:hover{
+    cursor:cell;
+}
+img{
+    margin-top: 50px;
+    background-image: url(./saylani_welfare_int_trust_by_almubdi-d47x490.jpg);
+    width: 90%;
+    margin-left: 100px;
+    height: 600px;
+}
+marquee{
+    font-size: 40px;
+    font-weight: inherit;
+    border:1px solid black;
+    width: 700px;
+    margin-left: 300px;
+    border-radius: 8px;
+}
